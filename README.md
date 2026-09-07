@@ -8,3 +8,7 @@ Salat
 - 3 feta 
 - hej
 
+Pasta 
+- Pasta
+- Salt
+- Ingrediens
